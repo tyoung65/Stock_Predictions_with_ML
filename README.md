@@ -1,5 +1,5 @@
 # Stock_Predictions_with_ML
-Modeling predictions of closing prices for ETFs tracking US Indices using a Random Forest Algorithm and a Recurrent Neural Network
+Modeling predictions of closing prices for ETFs tracking S&P 500 and Gold using a Random Forest Algorithm and a Recurrent Neural Network
 
 
 ## Notes 
